@@ -24,6 +24,7 @@ PM_START = """Hello {}, my name is {}!
 
 Iam captain of the straw hats pirates a group management bot
 Created by: @ALEXIIKUN
+To know my commands click on /help
 Join my crew by adding me to your group""
  
 
